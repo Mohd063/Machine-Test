@@ -1,16 +1,33 @@
-# cs_flutter_task_app
+# 📱 Flutter UI Task App
 
-A new Flutter project.
+This Flutter app was created as part of a Machine Test assignment. It replicates the design provided in the PDF and includes all key UI components.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- Splash Screen  
+- Signup Page  
+- OTP Verification  
+- Home Dashboard:
+  - Horizontal Banners  
+  - KYC Information Card  
+  - Category Icons  
+  - Exclusive Product Cards  
+  - Bottom Navigation Bar  
+  - Floating Chat Button  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚫 Note
+
+This project is focused on UI only.  
+**API integration has not been implemented**.
+
+---
+
+## ▶️ How to Run
+
+```bash
+flutter pub get
+flutter run
